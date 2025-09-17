@@ -1,0 +1,24 @@
+show all branches: git branch
+
+
+creating a new branch:
+      
+     git branch branch_name
+
+
+
+open/switching to the branch:
+
+    git checkout branch_name
+
+
+
+** Before merging any sub branch,check whether it is in main branch,after that merge it.
+
+
+merging the versions with original branch:
+    
+    git merge branch_name(sub branch/versions to merge)
+
+
+     
